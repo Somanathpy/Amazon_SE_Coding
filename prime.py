@@ -1,3 +1,4 @@
+'''     How would you write a function to check if a number is   prime? What kind of tests would you write for this function? '''
 num = int(input("enter a number:"))
 def is_prime(num):
 	#num = abs(num)
